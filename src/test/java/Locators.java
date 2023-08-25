@@ -8,6 +8,7 @@ import java.time.Duration;
 
 public class Locators {
     public static void main(String[] args) {
+        //something
         //System.setProperty("webdriver.chrome.driver", "C:\\Users\\Saksh\\OneDrive\\Desktop\\chrome-win64.exe");
 
         WebDriverManager.chromedriver().setup();
